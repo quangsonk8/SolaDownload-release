@@ -32,7 +32,6 @@
 - 📋 **Tải hàng loạt** — paste nhiều URL, tải song song
 - 🎵 **Chọn chất lượng** — 4K, 1080p, 720p, 480p, 360p, hoặc chỉ audio
 - 🔄 **Tự động cập nhật** — thông báo khi có phiên bản mới
-- 🌐 **Song ngữ** — Tiếng Việt & English
 
 ### 💻 Yêu cầu hệ thống
 
@@ -82,7 +81,7 @@ chmod +x SolaDownload
 
 ### 📞 Hỗ trợ
 
-- 🌐 Website: [solatechlabs.com](https://solatechlabs.com/videodownload)
+- 🌐 Website: [solatechlabs.com](https://solatechlabs.com/lien-he)
 - 📧 Email: support@solatechlabs.com
 - 💬 Telegram: [@solatechlabs](https://t.me/solatechlabs)
 
@@ -99,7 +98,6 @@ chmod +x SolaDownload
 - 📋 **Batch Download** — paste multiple URLs, parallel downloads
 - 🎵 **Quality Selection** — 4K, 1080p, 720p, 480p, 360p, or audio-only
 - 🔄 **Auto-Update** — notified when a new version is available
-- 🌐 **Bilingual** — Vietnamese & English
 
 ### 💻 System Requirements
 
@@ -149,7 +147,7 @@ chmod +x SolaDownload
 
 ### 📞 Support
 
-- 🌐 Website: [solatechlabs.com](https://solatechlabs.com/videodownload)
+- 🌐 Website: [solatechlabs.com](https://solatechlabs.com/lien-he)
 - 📧 Email: support@solatechlabs.com
 - 💬 Telegram: [@solatechlabs](https://t.me/solatechlabs)
 
