@@ -39,14 +39,14 @@
 ### ❓ FAQ
 
 **Q: Download failed?**
-> Contact support you can sent a ticket at [solatechlabs.com/videodownload](https://solatechlabs.com/videodownload)
+> Contact support you can sent a ticket at [solatechlabs.com/](https://solatechlabs.com/)
 
 **Q: License bound to another device?**
 > Contact support to reset your HWID
 
 ### 📞 Support
 
-- 🌐 Website: [solatechlabs.com](https://solatechlabs.com/videodownload)
+- 🌐 Website: [solatechlabs.com](https://solatechlabs.com/)
 - 📧 Email: support@solatechlabs.com
 - 💬 Telegram: [@solatechlabs](https://t.me/solatechlabs)
 
@@ -89,14 +89,14 @@
 ### ❓ Câu hỏi thường gặp
 
 **H: Tải thất bại?**
-> Liên hệ hỗ trợ để được hỗ trợ hoặc gửi vé hỗ trợ tại [solatechlabs.com/videodownload](https://solatechlabs.com/videodownload)
+> Liên hệ hỗ trợ để được hỗ trợ hoặc gửi vé hỗ trợ tại [solatechlabs.com/](https://solatechlabs.com/)
 
 **H: Bản quyền đã gắn với thiết bị khác?**
 > Liên hệ hỗ trợ để reset HWID
 
 ### 📞 Hỗ trợ
 
-- 🌐 Website: [solatechlabs.com](https://solatechlabs.com/videodownload)
+- 🌐 Website: [solatechlabs.com](https://solatechlabs.com/)
 - 📧 Email: support@solatechlabs.com
 - 💬 Telegram: [@solatechlabs](https://t.me/solatechlabs)
 
